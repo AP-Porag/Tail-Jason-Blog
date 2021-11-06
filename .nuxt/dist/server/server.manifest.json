@@ -1,0 +1,25 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/nuxt-logo.js": "components/nuxt-logo.js",
+    "components/tutorial.js": "components/tutorial.js",
+    "pages/about/index.js": "pages/about/index.js",
+    "pages/blog/index.js": "pages/blog/index.js",
+    "pages/index.js": "pages/index.js",
+    "pages/links/index.js": "pages/links/index.js",
+    "pages/post/_id.js": "pages/post/_id.js",
+    "pages/projects/index.js": "pages/projects/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/nuxt-logo.js": "components/nuxt-logo.js.map",
+    "components/tutorial.js": "components/tutorial.js.map",
+    "pages/about/index.js": "pages/about/index.js.map",
+    "pages/blog/index.js": "pages/blog/index.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/links/index.js": "pages/links/index.js.map",
+    "pages/post/_id.js": "pages/post/_id.js.map",
+    "pages/projects/index.js": "pages/projects/index.js.map",
+    "server.js": "server.js.map"
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/mnt/Project/Fiverr Project/test/test-logix-fe/pages/about/index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_4030b9de"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "/mnt/Project/Fiverr Project/test/test-logix-fe/pages/blog/index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_d0859bf2"
+  },
+  {
+    "name": "links",
+    "path": "/links",
+    "component": "/mnt/Project/Fiverr Project/test/test-logix-fe/pages/links/index.vue",
+    "chunkName": "pages/links/index",
+    "_name": "_79569f0a"
+  },
+  {
+    "name": "projects",
+    "path": "/projects",
+    "component": "/mnt/Project/Fiverr Project/test/test-logix-fe/pages/projects/index.vue",
+    "chunkName": "pages/projects/index",
+    "_name": "_71161042"
+  },
+  {
+    "name": "post-id",
+    "path": "/post/:id?",
+    "component": "/mnt/Project/Fiverr Project/test/test-logix-fe/pages/post/_id.vue",
+    "chunkName": "pages/post/_id",
+    "_name": "_039ad5a6"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/mnt/Project/Fiverr Project/test/test-logix-fe/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_2ab06e60"
+  }
+]
